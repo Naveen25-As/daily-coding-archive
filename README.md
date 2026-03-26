@@ -7,65 +7,104 @@ It covers basic programming concepts, logic building, and problem-solving.
 
 ---
 
-## 🚀 Programs List
+## This repository contains my Python learning journey 🚀
 
-### 🔹 Basic Operations
+### Completed (Day-01)
+- Practice Set 1 ✅
 
-1. Hello World
+## Programs
+1. Hello World 
 2. Add two numbers
-3. Subtract two numbers
-4. Multiply two numbers
-5. Divide two numbers
 
-### 🔹 Number Checks
+### Completed (Day-02)
+- Practice Set 2 ✅
 
-6. Even or Odd
-7. Positive, Negative, Zero
+## Programs
+3.Airthmetic operators
+4. Subtract two numbers
+5. Multiply two numbers
+6. Divide two numbers
+
+### Completed (Day-03)
+- Practice Set 3 ✅
+
+## Programs
+7. Even or Odd using function
 8. Largest of 2 numbers
 9. Largest of 3 numbers
+10. Even or odd
 
-### 🔹 Swapping & Math
+### Completed (Day-04)
+- Practice Set 4 ✅
 
-10. Swap two numbers
-11. Swap without third variable
-12. Square of a number
-13. Cube of a number
-14. Average of numbers
+## Programs
+11. Swap two numbers
+12. Swap without third variable
+13. Positive, Negative, Zero
+14. Square of a number
 
-### 🔹 Geometry & Conversions
+### Completed (Day-05)
+- Practice Set 5 ✅
 
-15. Area of circle
-16. Area of rectangle
-17. Area of triangle
-18. Celsius to Fahrenheit
-19. Fahrenheit to Celsius
+## Programs
+15.Square of a number
+16. Cube of a number
+17. Average of numbers
+18. Area of circle
 
-### 🔹 Financial Calculations
+### Completed (Day-06)
+- Practice Set 6 ✅
 
-20. Simple Interest
-21. Compound Interest
+## Programs
+19. Area of rectangle
+20. Area of triangle
+21. Celsius to Fahrenheit
+22. Fahrenheit to Celsius
+ 
+###Completed (Day-07)
+- Practice Set 7 ✅
 
-### 🔹 Character & String Checks
+## Programs
+23. Simple Interest
+24. Compound Interest
+25. Check alphabet or not
+26. Check vowel or consonant
 
-22. Check alphabet or not
-23. Check vowel or consonant
-24. Check uppercase or lowercase
-25. Print ASCII value
+### Completed (Day-08)
+- Practice Set 8 ✅
 
-### 🔹 Loops & Series
+## Programs
+27. Check uppercase or lowercase
+28. Print ASCII value
+29. Sum of natural numbers
+30. Multiplication table
 
-26. Sum of natural numbers
-27. Multiplication table
-28. Print numbers 1 to N
-29. Print even numbers
-30. Print odd numbers
+### Completed (Day-09)
+- Practice Set 9 ✅
 
-### 🔹 Additional Programs
+## Programs
+31.print 1 to n number
+32.Print even numbers using for loop
+33.print odd numbers using for loop
+34.print both even and odd numbers using for loop
 
-31. Find remainder of two numbers
-32. Check divisible by 3
-33. Smallest of two numbers
-34. Smallest of three numbers
+## Completed (Day-10)
+- Practice Set 10 ✅
+
+## Programs
+35.Two numbers are divided
+36.Check whether a number is divisible by three
+37.Find the smallest of two number
+38.Find smallest of three number
+
+## Completed (Day-11)
+- Practice Set 11 ✅
+
+## Programs
+39.Count the number of digits in a number
+40.Check whether a year is a leap year
+40.Reverse a number
+41.Calculate square root of a number
 
 ---
 
