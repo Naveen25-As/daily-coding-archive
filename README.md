@@ -61,7 +61,7 @@ It covers basic programming concepts, logic building, and problem-solving.
 21. Celsius to Fahrenheit
 22. Fahrenheit to Celsius
  
-###Completed (Day-07)
+### Completed (Day-07)
 - Practice Set 7 ✅
 
 ## Programs
@@ -106,6 +106,14 @@ It covers basic programming concepts, logic building, and problem-solving.
 40.Reverse a number
 41.Calculate square root of a number
 
+## Completed (Day-12)
+- Practice Set 12 ✅
+
+## Programs
+42. Count the number of digits in a number
+43. Find the sum of digits of a number
+44. Check whether a number is palindrome
+45. Print numbers from N to 1
 ---
 
 ## 🛠️ Technologies Used
