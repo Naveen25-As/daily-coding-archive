@@ -123,6 +123,15 @@ It covers basic programming concepts, logic building, and problem-solving.
 47. Check whether a number is prime
 48. Find sum of first N natural numbers
 49. Check whether a number is Armstrong
+
+## Completed (Day-14)
+- Practice Set 14 ✅
+
+## Programs
+50. Find largest digit in a number
+51. Find smallest digit in a number
+52. Count even and odd digits in a number
+53. Print Fibonacci series up to N terms
 ---
 
 ## 🛠️ Technologies Used
