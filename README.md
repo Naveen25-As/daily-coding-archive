@@ -114,6 +114,15 @@ It covers basic programming concepts, logic building, and problem-solving.
 43. Find the sum of digits of a number
 44. Check whether a number is palindrome
 45. Print numbers from N to 1
+
+## Completed (Day-13)
+- Practice Set 13 ✅
+
+## Programs
+46. Find factorial of a number
+47. Check whether a number is prime
+48. Find sum of first N natural numbers
+49. Check whether a number is Armstrong
 ---
 
 ## 🛠️ Technologies Used
