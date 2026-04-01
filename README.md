@@ -150,6 +150,15 @@ It covers basic programming concepts, logic building, and problem-solving.
 59. Check whether a character is digit or not
 60. Convert uppercase to lowercase
 61. Convert lowercase to uppercase
+
+## Completed (Day-17)
+- Practice Set 17 ✅
+
+## Programs
+62. Print all numbers divisible by 7 from 1 to N
+63. Find sum of even numbers from 1 to N
+64.Print table from 1 to 10
+65.Print number triangle
 ---
 
 ## 🛠️ Technologies Used
