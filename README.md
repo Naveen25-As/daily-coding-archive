@@ -132,6 +132,24 @@ It covers basic programming concepts, logic building, and problem-solving.
 51. Find smallest digit in a number
 52. Count even and odd digits in a number
 53. Print Fibonacci series up to N terms
+
+## Completed (Day-15)
+- Practice Set 15 ✅
+
+## Programs
+54. Check whether a number is perfect number
+55. Find power of a number (x^y)
+56. Convert days into years, weeks, and days
+57. Calculate perimeter of rectangle
+
+## Completed (Day-16)
+- Practice Set 16 ✅
+
+## Programs
+58. Calculate circumference of circle
+59. Check whether a character is digit or not
+60. Convert uppercase to lowercase
+61. Convert lowercase to uppercase
 ---
 
 ## 🛠️ Technologies Used
