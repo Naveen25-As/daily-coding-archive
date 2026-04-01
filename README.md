@@ -47,10 +47,10 @@ It covers basic programming concepts, logic building, and problem-solving.
 - Practice Set 5 ✅
 
 ## Programs
-15.Square of a number
-16. Cube of a number
-17. Average of numbers
-18. Area of circle
+15. Square of a number.
+16. Cube of a number.
+17. Average of numbers.
+18. Area of circle.
 
 ### Completed (Day-06)
 - Practice Set 6 ✅
@@ -83,28 +83,28 @@ It covers basic programming concepts, logic building, and problem-solving.
 - Practice Set 9 ✅
 
 ## Programs
-31.print 1 to n number
-32.Print even numbers using for loop
-33.print odd numbers using for loop
-34.print both even and odd numbers using for loop
+31. print 1 to n number.
+32. Print even numbers using for loop.
+33. print odd numbers using for loop.
+34. print both even and odd numbers using for loop. 
 
 ## Completed (Day-10)
 - Practice Set 10 ✅
 
 ## Programs
-35.Two numbers are divided
-36.Check whether a number is divisible by three
-37.Find the smallest of two number
-38.Find smallest of three number
+35. Two numbers are divided
+36. Check whether a number is divisible by three
+37. Find the smallest of two number
+38. Find smallest of three number
 
 ## Completed (Day-11)
 - Practice Set 11 ✅
 
 ## Programs
-39.Count the number of digits in a number
-40.Check whether a year is a leap year
-40.Reverse a number
-41.Calculate square root of a number
+39. Count the number of digits in a number
+40. Check whether a year is a leap year
+40. Reverse a number
+41. Calculate square root of a number
 
 ## Completed (Day-12)
 - Practice Set 12 ✅
