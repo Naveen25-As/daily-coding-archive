@@ -159,6 +159,15 @@ It covers basic programming concepts, logic building, and problem-solving.
 63. Find sum of even numbers from 1 to N
 64.Print table from 1 to 10
 65.Print number triangle
+
+## Completed (Day-18)
+- Practice Set 18 ✅
+
+## Programs
+66.	GCD of two numbers
+67.	LCM of two numbers
+68.	Power of a number
+69.	Strong number
 ---
 
 ## 🛠️ Technologies Used
