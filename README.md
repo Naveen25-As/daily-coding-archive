@@ -168,6 +168,15 @@ It covers basic programming concepts, logic building, and problem-solving.
 67.	LCM of two numbers
 68.	Power of a number
 69.	Strong number
+
+## Completed (Day-19)
+- Practice Set 19 ✅
+
+## Programs
+70. Check whether a number is a Harshad (Niven) number.
+71. Check whether a number is a Disarium number.
+72. Check whether a number is a Duck number.
+73. Check whether a number is a Neon number
 ---
 
 ## 🛠️ Technologies Used
