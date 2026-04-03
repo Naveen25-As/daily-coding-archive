@@ -20,10 +20,10 @@ It covers basic programming concepts, logic building, and problem-solving.
 - Practice Set 2 ✅
 
 ## Programs
-3.Airthmetic operators
-4. Subtract two numbers
-5. Multiply two numbers
-6. Divide two numbers
+3. Airthmetic operators.
+4. Subtract two numbers.
+5. Multiply two numbers.
+6. Divide two numbers.
 
 ### Completed (Day-03)
 - Practice Set 3 ✅
@@ -157,8 +157,17 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 62. Print all numbers divisible by 7 from 1 to N
 63. Find sum of even numbers from 1 to N
-64.Print table from 1 to 10
-65.Print number triangle
+64. Print table from 1 to 10
+65. Print number triangle
+
+## Completed (Day-18)
+- Practice Set 18 ✅
+
+## Programs
+66.	GCD of two numbers
+67.	LCM of two numbers
+68.	Power of a number
+69.	Strong number
 ---
 
 ## 🛠️ Technologies Used
