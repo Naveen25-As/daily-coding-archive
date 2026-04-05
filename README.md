@@ -185,6 +185,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 75. Count frequency of characters in a string.
 76. Remove spaces from a string.
 77. Find longest word in a sentence.
+
+## Completed (Day-21)
+- Practice Set 2 ✅
+
+## Programs
+78. Merge two lists.
+79. Find common elements in two lists.
 ---
 
 ## 🛠️ Technologies Used
