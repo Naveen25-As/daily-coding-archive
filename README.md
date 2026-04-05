@@ -11,7 +11,6 @@ It covers basic programming concepts, logic building, and problem-solving.
 
 ### Completed (Day-01)
 - Practice Set 1 ✅
-
 ## Programs
 1. Hello World 
 2. Add two numbers
@@ -177,6 +176,15 @@ It covers basic programming concepts, logic building, and problem-solving.
 71. Check whether a number is a Disarium number.
 72. Check whether a number is a Duck number.
 73. Check whether a number is a Neon number
+
+## Completed (Day-20)
+- Practice Set 20 ✅
+
+## Programs
+74. Reverse a string without using slicing.
+75. Count frequency of characters in a string.
+76. Remove spaces from a string.
+77. Find longest word in a sentence.
 ---
 
 ## 🛠️ Technologies Used
