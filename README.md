@@ -195,10 +195,25 @@ It covers basic programming concepts, logic building, and problem-solving.
 
 ## Completed (Day-22)
 - Practice Set 22 ✅
+
+## Programs
 80. Find second largest element in a list.
 81. Remove duplicate elements from a list.
 
+## Completed (Day-23)
+- Practice Set 23 ✅
+
 ## Programs
+82. Write a program to demonstrate different number datatypes in python. 
+83. Write a program to perform different Arithmetic Operations on numbers in python. 
+84. Write a program to create, concatenate and print a string and accessing sub-string     from a given string. 
+85. Write a python script to print the current date in the following format  “Sun Sept     29 02:26:23 IST 2025”. 
+86. Write a python program to find factorial of a number using recursion. 
+87. Write a Python program to print Fibonacci series. 
+88. Write a Python program to check palindrome. 
+89. Write a Python script that prints prime numbers less than 30. 
+90. Write a Python program on Lambda functions with different methods. 
+91. Write a program to create, append, and remove lists in Python. 
 
 ---
 
