@@ -187,11 +187,19 @@ It covers basic programming concepts, logic building, and problem-solving.
 77. Find longest word in a sentence.
 
 ## Completed (Day-21)
-- Practice Set 2 ✅
+- Practice Set 21 ✅
 
 ## Programs
 78. Merge two lists.
 79. Find common elements in two lists.
+
+## Completed (Day-22)
+- Practice Set 22 ✅
+80. Find second largest element in a list.
+81. Remove duplicate elements from a list.
+
+## Programs
+
 ---
 
 ## 🛠️ Technologies Used
