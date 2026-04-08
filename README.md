@@ -221,6 +221,7 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 92. Accesing elements and slice.
 93. Automorphic number between 1 to 1000.
+94.  Print numbers reverse.
 ---
 
 ## 🛠️ Technologies Used
