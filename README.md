@@ -222,6 +222,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 92. Accesing elements and slice.
 93. Automorphic number between 1 to 1000.
 94.  Print numbers reverse.
+
+## Completed (Day-25)
+- Practice Set 25 ✅
+
+## Programs
+95. Convert tuple into list.
+96. Functions of tuple.  
 ---
 
 ## 🛠️ Technologies Used
