@@ -215,6 +215,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 90. Write a Python program on Lambda functions with different methods. 
 91. Write a program to create, append, and remove lists in Python. 
 
+## Completed (Day-24)
+- Practice Set 24 ✅
+
+## Programs
+92. Accesing elements and slice.
+93. Automorphic number between 1 to 1000.
+94.  Print numbers reverse.
 ---
 
 ## 🛠️ Technologies Used
