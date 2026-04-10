@@ -229,6 +229,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 95. Convert tuple into list.
 96. Functions of tuple.  
+
+## Completed (Day-26)
+- Practice Set 26 ✅
+
+## Programs
+97. List example
+98. Dictionary example
 ---
 
 ## 🛠️ Technologies Used
