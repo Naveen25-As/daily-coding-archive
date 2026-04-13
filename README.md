@@ -236,6 +236,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 97. List example
 98. Dictionary example
+
+## Completed (Day-27)
+- Practice Set 27 ✅
+
+## Programs
+99. Reverse a list.
+100. Removing duplicate elements in list.
 ---
 
 ## 🛠️ Technologies Used
