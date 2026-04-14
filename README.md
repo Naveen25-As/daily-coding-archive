@@ -243,6 +243,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 99. Reverse a list.
 100. Removing duplicate elements in list.
+
+## Completed (Day-28)
+- Practice Set 28 ✅
+
+## Programs
+101. Print number pyramid.
+102. Print number reverse pattern.
 ---
 
 ## 🛠️ Technologies Used
