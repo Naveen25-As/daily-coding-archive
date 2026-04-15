@@ -250,6 +250,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 101. Print number pyramid.
 102. Print number reverse pattern.
+
+ ## Completed (Day-29)
+- Practice Set 29 ✅
+
+## Programs
+103. Remove all elements from the dictionary.
+104. Return copy of a dictionary.
 ---
 
 ## 🛠️ Technologies Used
