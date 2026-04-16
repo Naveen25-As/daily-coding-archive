@@ -257,6 +257,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 103. Remove all elements from the dictionary.
 104. Return copy of a dictionary.
+
+ ## Completed (Day-30)
+- Practice Set 30 ✅
+
+## Programs
+105.  Updates dictionary with another dictionary.
+106.   Removes the element with given key.
 ---
 
 ## 🛠️ Technologies Used
