@@ -264,6 +264,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 105.  Updates dictionary with another dictionary.
 106.   Removes the element with given key.
+
+ ## Completed (Day-31)
+- Practice Set 31 ✅
+
+## Programs
+107. Storing student reccords using tuples.
+108. Finding the highest marks of the student.
 ---
 
 ## 🛠️ Technologies Used
