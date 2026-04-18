@@ -271,6 +271,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 107. Storing student reccords using tuples.
 108. Finding the highest marks of the student.
+
+ ## Completed (Day-32)
+- Practice Set 32 ✅
+
+## Programs
+109. Sorted students by marks.
+110. Selecting course in college.
 ---
 
 ## 🛠️ Technologies Used
