@@ -278,7 +278,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 109. Sorted students by marks.
 110. Selecting course in college.
----
+
+ ## Completed (Day-33)
+- Practice Set 33 ✅
+
+## Programs
+111. Use of membership operator.
+112. Find length of a string and slice it.
 
 ## 🛠️ Technologies Used
 
