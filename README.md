@@ -294,6 +294,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 114. Python program to create interger type array.
 
 
+## Completed (Day-35)
+- Practice Set 35 ✅
+
+## Programs
+115. indexing in tuple.
+116. indexing in list.
+
 
 ## 🛠️ Technologies Used
 
