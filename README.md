@@ -286,6 +286,15 @@ It covers basic programming concepts, logic building, and problem-solving.
 111. Use of membership operator.
 112. Find length of a string and slice it.
 
+## Completed (Day-34)
+- Practice Set 34 ✅
+
+## Programs
+113. A Python program to create an array with a group of characters.
+114. Python program to create interger type array.
+
+
+
 ## 🛠️ Technologies Used
 
 * Python
