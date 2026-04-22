@@ -302,6 +302,15 @@ It covers basic programming concepts, logic building, and problem-solving.
 116. indexing in list.
 
 
+## Completed (Day-36)
+- Practice Set 36 ✅
+
+## Programs
+117. Count vowels in string.
+118. Find length of string with and without built-in function.
+
+
+
 ## 🛠️ Technologies Used
 
 * Python
