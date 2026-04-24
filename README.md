@@ -315,6 +315,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 119. Nested if else program.
 
+## Completed (Day-38)
+- Practice Set 38 ✅
+
+## Programs
+120. Right angled triangle.
+121. Reverse triangle.
+
 ## 🛠️ Technologies Used
 
 * Python
