@@ -322,6 +322,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 120. Right angled triangle.
 121. Reverse triangle.
 
+## Completed (Day-39)
+- Practice Set 39 ✅
+
+## Programs
+122. Increasing alphabet triangle.
+123. Increasing alphabet triangle but same alphabet in each row.
+
 ## 🛠️ Technologies Used
 
 * Python
