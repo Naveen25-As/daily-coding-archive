@@ -329,6 +329,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 122. Increasing alphabet triangle.
 123. Increasing alphabet triangle but same alphabet in each row.
 
+## Completed (Day-40)
+- Practice Set 40 ✅
+
+## Programs
+124. Reverse alphabet pattern.
+125. Continous alphabet pattern.
+
 ## 🛠️ Technologies Used
 
 * Python
