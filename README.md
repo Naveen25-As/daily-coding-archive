@@ -342,6 +342,12 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 126. Reverse decreasing number triangle.
 
+## Completed (Day-42)
+- Practice Set 42 ✅
+
+## Programs
+127. Simple encapsulation program.
+
 
 ## 🛠️ Technologies Used
 
