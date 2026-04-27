@@ -336,6 +336,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 124. Reverse alphabet pattern.
 125. Continous alphabet pattern.
 
+## Completed (Day-41)
+- Practice Set 41 ✅
+
+## Programs
+126. Reverse decreasing number triangle.
+
+
 ## 🛠️ Technologies Used
 
 * Python
