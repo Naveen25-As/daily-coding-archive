@@ -348,6 +348,12 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 127. Simple encapsulation program.
 
+## Completed (Day-43)
+- Practice Set 43 ✅
+
+## Programs
+128. Simple polymorphism program.
+
 
 ## 🛠️ Technologies Used
 
