@@ -354,6 +354,12 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 128. Simple polymorphism program.
 
+## Completed (Day-44)
+- Practice Set 44 ✅
+
+## Programs
+129. Simple inheritance program.
+
 
 ## 🛠️ Technologies Used
 
