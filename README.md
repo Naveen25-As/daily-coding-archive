@@ -360,6 +360,12 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 129. Simple inheritance program.
 
+## Completed (Day-45)
+- Practice Set 45 ✅
+
+## Programs
+130. Write mode program.
+
 
 ## 🛠️ Technologies Used
 
