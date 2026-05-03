@@ -372,6 +372,12 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 131. Read mode program.
 
+## Completed (Day-47)
+- Practice Set 47 ✅
+
+## Programs
+132. Append mode program.
+
 
 ## 🛠️ Technologies Used
 
