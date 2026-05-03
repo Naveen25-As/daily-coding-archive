@@ -1,0 +1,2 @@
+
+ This line is writed using read and write mode.
