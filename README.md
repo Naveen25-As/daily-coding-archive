@@ -390,6 +390,12 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 134. Create mode program.
 
+## Completed (Day-50)
+- Practice Set 50 ✅
+
+## Programs
+135. Python libraries Tkinter problem.
+
 
 ## 🛠️ Technologies Used
 
