@@ -384,6 +384,12 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 133. Read and write mode program.
 
+## Completed (Day-49)
+- Practice Set 49 ✅
+
+## Programs
+134. Create mode program.
+
 
 ## 🛠️ Technologies Used
 
