@@ -396,6 +396,11 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 135. Python libraries Tkinter problem.
 
+## Completed (Day-51)
+- Practice Set 51 ✅
+
+## Programs
+136. Application of scholarship program.
 
 ## 🛠️ Technologies Used
 
