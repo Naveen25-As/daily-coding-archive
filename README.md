@@ -402,6 +402,12 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 136. Application of scholarship program.
 
+## Completed (Day-52)
+- Practice Set 52 ✅
+
+## Programs
+137. Creating a frame.
+
 ## 🛠️ Technologies Used
 
 * Python
