@@ -414,6 +414,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 138. Adding a widget in inside the frame.
 
+## Completed (Day-54)
+- Practice Set 54 ✅
+
+## Programs
+139. Find average marks of the student using array.
+
+
 ## 🛠️ Technologies Used
 
 * Python
