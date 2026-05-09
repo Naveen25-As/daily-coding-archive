@@ -408,6 +408,12 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 137. Creating a frame.
 
+## Completed (Day-53)
+- Practice Set 53 ✅
+
+## Programs
+138. Adding a widget in inside the frame.
+
 ## 🛠️ Technologies Used
 
 * Python
