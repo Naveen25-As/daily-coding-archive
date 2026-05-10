@@ -420,6 +420,12 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 139. Find average marks of the student using array.
 
+## Completed (Day-55)
+- Practice Set 55 ✅
+
+## Programs
+140. Example of Exception handling program.
+
 
 ## 🛠️ Technologies Used
 
