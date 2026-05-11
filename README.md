@@ -426,6 +426,11 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 140. Example of Exception handling program.
 
+## Completed (Day-56)
+- Practice Set 56 ✅
+
+## Programs
+141. Example program of class and object.
 
 ## 🛠️ Technologies Used
 
