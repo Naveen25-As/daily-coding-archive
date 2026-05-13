@@ -438,6 +438,12 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 142. Login form program using Tkinter.
 
+## Completed (Day-58)
+- Practice Set 58 ✅
+
+## Programs
+143. Counter program using Tkinter.
+
 ## 🛠️ Technologies Used
 
 * Python
