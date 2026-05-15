@@ -450,6 +450,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 144. Tempereture converter program using Tkinter.
 
+## Completed (Day-60)
+- Practice Set 60 ✅
+
+## Programs
+145. Insert a function that prints a greetings, and execute it on the p1 object.
+
+
 ## 🛠️ Technologies Used
 
 * Python
