@@ -444,6 +444,12 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 143. Counter program using Tkinter.
 
+## Completed (Day-59)
+- Practice Set 59 ✅
+
+## Programs
+144. Tempereture converter program using Tkinter.
+
 ## 🛠️ Technologies Used
 
 * Python
