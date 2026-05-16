@@ -456,6 +456,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 145. Insert a function that prints a greetings, and execute it on the p1 object.
 
+## Completed (Day-61)
+- Practice Set 61 ✅
+
+## Programs
+146. Create a class named Person, use the __init__() function to assign values for name and age.
+
+
 
 ## 🛠️ Technologies Used
 
