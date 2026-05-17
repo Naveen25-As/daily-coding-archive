@@ -462,6 +462,12 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 146. Create a class named Person, use the __init__() function to assign values for name and age.
 
+## Completed (Day-62)
+- Practice Set 62 ✅
+
+## Programs
+147.Use the words mysillyobject and abc instead of self. 
+
 
 
 ## 🛠️ Technologies Used
