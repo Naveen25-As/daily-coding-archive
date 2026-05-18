@@ -468,6 +468,12 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 147.Use the words mysillyobject and abc instead of self. 
 
+## Completed (Day-63)
+- Practice Set 63 ✅
+
+## Programs
+148. Example of Grid method.
+
 
 
 ## 🛠️ Technologies Used
