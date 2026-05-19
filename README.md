@@ -474,6 +474,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 148. Example of Grid method.
 
+## Completed (Day-64)
+- Practice Set 64 ✅
+
+## Programs
+149. Exampleof Modify Object Properties.
+
+
 
 
 ## 🛠️ Technologies Used
