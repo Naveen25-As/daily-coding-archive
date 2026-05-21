@@ -486,6 +486,12 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 150. Write a python program to construct Right Angled Triangle using loops.
 
+## Completed (Day-66)
+- Practice Set 66 ✅
+
+## Programs
+151. Example of pack method.
+
 
 
 
