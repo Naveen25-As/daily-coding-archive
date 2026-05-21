@@ -480,6 +480,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 149. Exampleof Modify Object Properties.
 
+## Completed (Day-65)
+- Practice Set 65 ✅
+
+## Programs
+150. Write a python program to construct Right Angled Triangle using loops.
+
+
 
 
 
