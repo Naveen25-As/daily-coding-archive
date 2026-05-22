@@ -492,9 +492,11 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 151. Example of pack method.
 
+## Completed (Day-67)
+- Practice Set 67 ✅
 
-
-
+## Programs
+152. Python program to handle syntax arror given by eval().
 
 ## 🛠️ Technologies Used
 
