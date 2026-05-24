@@ -498,6 +498,12 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 152. Python program to handle syntax arror given by eval().
 
+## Completed (Day-68
+- Practice Set 68 ✅
+
+## Programs
+153. Python program for Employee class.
+
 ## 🛠️ Technologies Used
 
 * Python
