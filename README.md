@@ -498,11 +498,18 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 152. Python program to handle syntax arror given by eval().
 
-## Completed (Day-68
+## Completed (Day-68)
 - Practice Set 68 ✅
 
 ## Programs
 153. Python program for Employee class.
+
+## Completed (Day-69)
+- Practice Set 69 ✅
+
+## Programs
+154. Write a Tkinter program to draw operations of graphical shapes. 
+
 
 ## 🛠️ Technologies Used
 
