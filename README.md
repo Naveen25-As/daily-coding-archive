@@ -508,7 +508,18 @@ It covers basic programming concepts, logic building, and problem-solving.
 - Practice Set 69 ✅
 
 ## Programs
-154. Write a Tkinter program to draw operations of graphical shapes. 
+154. Write a Tkinter program to draw operations of graphical shapes.
+
+## Completed (Day-70)
+- Practice Set 70 ✅
+
+## Programs
+155. Write a Python program for student reacords Management using tuples.
+156. Write a Python Program for Employee Management System using Dictionary.
+157. Write a Python Program for Student Scholarship Eligibility using Nested-If.
+
+
+
 
 
 ## 🛠️ Technologies Used
