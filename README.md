@@ -519,6 +519,14 @@ It covers basic programming concepts, logic building, and problem-solving.
 157. Write a Python Program for Student Scholarship Eligibility using Nested-If.
 
 
+## Completed (Day-71)
+- Practice Set 71 ✅
+
+## Programs
+158. Write a Python Program for Daily Temperature Record System using Array Indexing and Slicing
+
+
+
 
 
 
