@@ -523,7 +523,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 - Practice Set 71 ✅
 
 ## Programs
-158. Write a Python Program for Daily Temperature Record System using Array Indexing and Slicing
+158. Write a Python Program for Daily Temperature Record System using Array Indexing and Slicing.
+
+## Completed (Day-72)
+- Practice Set 72 ✅
+
+## Programs
+159.  Write a Python Program for Online Shopping & Billing System using Variable Length and Default Arguments.
 
 
 
