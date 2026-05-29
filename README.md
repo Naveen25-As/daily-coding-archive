@@ -531,6 +531,19 @@ It covers basic programming concepts, logic building, and problem-solving.
 ## Programs
 159.  Write a Python Program for Online Shopping & Billing System using Variable Length and Default Arguments.
 
+## Completed (Day-73)
+- Practice Set 73 ✅
+
+## Programs
+160.   Write a python program to perform the following file operations .
+i. Open file in write and binary mode.
+ii. Display file name.
+iii. Write Text to file. 
+iv. To read from the file. 
+
+
+
+
 
 
 
