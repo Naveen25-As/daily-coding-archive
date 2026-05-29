@@ -541,20 +541,11 @@ ii. Display file name.
 iii. Write Text to file. 
 iv. To read from the file.
 
-## Completed (Day-73)
-- Practice Set 73 ✅
+## Completed (Day-74)
+- Practice Set 74 ✅
 
 ## Programs
-161. Program to draw operations of graphical shapes. 
-
-
-
-
-
-
-
-
-
+161. Program to draw operations of graphical shapes.
 
 
 ## 🛠️ Technologies Used
