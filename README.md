@@ -539,14 +539,13 @@ It covers basic programming concepts, logic building, and problem-solving.
 i. Open file in write and binary mode.
 ii. Display file name.
 iii. Write Text to file. 
-iv. To read from the file. 
+iv. To read from the file.
 
+## Completed (Day-74)
+- Practice Set 74 ✅
 
-
-
-
-
-
+## Programs
+161. Program to draw operations of graphical shapes.
 
 
 ## 🛠️ Technologies Used
