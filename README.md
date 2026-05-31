@@ -551,7 +551,14 @@ iv. To read from the file.
 - Practice Set 75 ✅
 
 ## Programs
-162. Python program to create a dictionary from keyboard and display the elements. 
+162. Python program to create a dictionary from keyboard and display the elements.
+
+## Completed (Day-76)
+- Practice Set 76 ✅
+
+## Programs
+163. Program to count number of letters and vowels.  
+
 
 
 
