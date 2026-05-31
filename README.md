@@ -547,6 +547,13 @@ iv. To read from the file.
 ## Programs
 161. Program to draw operations of graphical shapes.
 
+## Completed (Day-75)
+- Practice Set 75 ✅
+
+## Programs
+162. Python program to create a dictionary from keyboard and display the elements. 
+
+
 
 ## 🛠️ Technologies Used
 
