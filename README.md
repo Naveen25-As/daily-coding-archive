@@ -565,6 +565,13 @@ iv. To read from the file.
 ## Programs
 164. Expense traker application.
 
+## Completed (Day-78)
+- Practice Set 78 ✅
+
+## Programs
+165. Write a GUI program to input a name and password from user and display the same after clicking the button.
+
+
 ## 🛠️ Technologies Used
 
 * Python
