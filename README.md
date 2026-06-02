@@ -559,8 +559,11 @@ iv. To read from the file.
 ## Programs
 163. Program to count number of letters and vowels.  
 
+## Completed (Day-77)
+- Practice Set 77 ✅
 
-
+## Programs
+164. Expense traker application.
 
 ## 🛠️ Technologies Used
 
