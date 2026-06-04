@@ -571,6 +571,13 @@ iv. To read from the file.
 ## Programs
 165. Write a GUI program to input a name and password from user and display the same after clicking the button.
 
+## Completed (Day-79)
+- Practice Set 79 ✅
+
+## Programs
+166. Python program to create a push button and bind it with an event handler function using command option.
+
+
 
 ## 🛠️ Technologies Used
 
