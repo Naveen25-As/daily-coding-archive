@@ -583,6 +583,13 @@ iv. To read from the file.
 ## Programs
 167. Example program for polymorphism.
 
+## Completed (Day-81)
+- Practice Set 81 ✅
+
+## Programs
+168. Write a Python program for inserting and deleting values from database. 
+
+
 
 
 
