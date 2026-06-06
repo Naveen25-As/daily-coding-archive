@@ -1,4 +1,4 @@
-# 🧑‍💻 Daily Python Practice
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/45372b8a-4266-4a93-a875-93b9f93b71f7" /># 🧑‍💻 Daily Python Practice
 
 ## 📌 Description
 
@@ -587,7 +587,15 @@ iv. To read from the file.
 - Practice Set 81 ✅
 
 ## Programs
-168. Write a Python program for inserting and deleting values from database. 
+168. Write a Python program for inserting and deleting values from database.
+
+## Completed (Day-82)
+- Practice Set 82 ✅
+
+## Programs
+169. Example python program to draw shapesm using Tkinter.
+
+
 
 
 
