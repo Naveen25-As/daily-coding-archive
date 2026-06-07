@@ -595,6 +595,13 @@ iv. To read from the file.
 ## Programs
 169. Example python program to draw shapesm using Tkinter.
 
+## Completed (Day-83)
+- Practice Set 83 ✅
+
+## Programs
+170. Write a Python Tkinter program for grid method.
+
+
 
 
 
