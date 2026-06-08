@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/45372b8a-4266-4a93-a875-93b9f93b71f7" /># 🧑‍💻 Daily Python Practice
+# 🧑‍💻 Daily Python Practice
 
 ## 📌 Description
 
@@ -601,12 +601,11 @@ iv. To read from the file.
 ## Programs
 170. Write a Python Tkinter program for grid method.
 
+## Completed (Day-84)
+- Practice Set 84 ✅
 
-
-
-
-
-
+## Programs
+171. Write a python program for Calculator class.
 
 ## 🛠️ Technologies Used
 
