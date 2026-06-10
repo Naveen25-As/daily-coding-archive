@@ -613,6 +613,13 @@ iv. To read from the file.
 ## Programs
 172.  Write a Python program for calculate Simple Interest using class and object.
 
+## Completed (Day-86)
+- Practice Set 86 ✅
+
+## Programs
+173.  Write a Python program to know the available font families. 
+
+
 
 ## 🛠️ Technologies Used
 
