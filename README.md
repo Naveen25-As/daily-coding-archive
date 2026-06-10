@@ -607,6 +607,13 @@ iv. To read from the file.
 ## Programs
 171. Write a python program for Calculator class.
 
+## Completed (Day-85)
+- Practice Set 85 ✅
+
+## Programs
+172.  Write a Python program for calculate Simple Interest using class and object.
+
+
 ## 🛠️ Technologies Used
 
 * Python
