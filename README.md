@@ -617,7 +617,14 @@ iv. To read from the file.
 - Practice Set 86 ✅
 
 ## Programs
-173.  Write a Python program to know the available font families. 
+173.  Write a Python program to know the available font families.
+
+## Completed (Day-87)
+- Practice Set 87 ✅
+
+## Programs
+174. Write a Python program for function to process in tuple. 
+
 
 
 
