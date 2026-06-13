@@ -625,8 +625,11 @@ iv. To read from the file.
 ## Programs
 174. Write a Python program for function to process in tuple. 
 
+## Completed (Day-88
+- Practice Set 88 ✅
 
-
+## Programs
+175. Python program to access the characters of a string using for loop. 
 
 ## 🛠️ Technologies Used
 
