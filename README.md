@@ -643,7 +643,11 @@ iv. To read from the file.
 ## Programs
 177. Bank Account OOP Python.
 
+## Completed (Day-91)
+- Practice Set 91 ✅
 
+## Programs
+178. Program for calculater class using class and object.
 
 ## 🛠️ Technologies Used
 
