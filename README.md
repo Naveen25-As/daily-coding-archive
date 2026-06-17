@@ -649,6 +649,13 @@ iv. To read from the file.
 ## Programs
 178. Program for calculater class using class and object.
 
+## Completed (Day-92)
+- Practice Set 92 ✅
+
+## Programs
+179. Python program for Rectangle Area using oops.
+
+
 ## 🛠️ Technologies Used
 
 * Python
