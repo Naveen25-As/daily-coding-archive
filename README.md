@@ -655,6 +655,13 @@ iv. To read from the file.
 ## Programs
 179. Python program for Rectangle Area using oops.
 
+## Completed (Day-93)
+- Practice Set 93 ✅
+
+## Programs
+180. Python program for Simple Interest.
+
+
 
 ## 🛠️ Technologies Used
 
