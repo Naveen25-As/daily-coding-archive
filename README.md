@@ -661,6 +661,13 @@ iv. To read from the file.
 ## Programs
 180. Python program for Simple Interest.
 
+## Completed (Day-94)
+- Practice Set 94 ✅
+
+## Programs
+181. Write a program for Circle Area Program.
+
+
 
 
 ## 🛠️ Technologies Used
