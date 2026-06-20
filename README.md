@@ -673,9 +673,11 @@ iv. To read from the file.
 ## Programs
 182. Python program for Book class.
 
+## Completed (Day-96)
+- Practice Set 96 ✅
 
-
-
+## Programs
+183. Python program for Mobile Class.
 
 ## 🛠️ Technologies Used
 
