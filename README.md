@@ -667,6 +667,13 @@ iv. To read from the file.
 ## Programs
 181. Write a program for Circle Area Program.
 
+## Completed (Day-95)
+- Practice Set 95 ✅
+
+## Programs
+182. Python program for Book class.
+
+
 
 
 
