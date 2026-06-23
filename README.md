@@ -691,6 +691,13 @@ iv. To read from the file.
 ## Programs
 185. Python program for Marks Calculation.
 
+## Completed (Day-99)
+- Practice Set 99 ✅
+
+## Programs
+186. Program for Electricity Bill.
+
+
 
 
 ## 🛠️ Technologies Used
