@@ -685,6 +685,13 @@ iv. To read from the file.
 ## Programs
 184. Program for Laptop Class.
 
+## Completed (Day-98)
+- Practice Set 98 ✅
+
+## Programs
+185. Python program for Marks Calculation.
+
+
 
 ## 🛠️ Technologies Used
 
