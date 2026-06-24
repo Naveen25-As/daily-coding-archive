@@ -697,6 +697,13 @@ iv. To read from the file.
 ## Programs
 186. Program for Electricity Bill.
 
+## Completed (Day-100)
+- Practice Set 100 ✅
+
+## Programs
+187. Python program for Temperature Converter.
+
+
 
 
 
