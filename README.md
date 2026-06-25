@@ -703,8 +703,11 @@ iv. To read from the file.
 ## Programs
 187. Python program for Temperature Converter.
 
+## Completed (Day-101)
+- Practice Set 101 ✅
 
-
+## Programs
+188. Pythom program for Voting Eligibilty using class and object.
 
 
 ## 🛠️ Technologies Used
