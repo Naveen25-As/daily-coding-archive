@@ -709,6 +709,13 @@ iv. To read from the file.
 ## Programs
 188. Pythom program for Voting Eligibilty using class and object.
 
+## Completed (Day-102)
+- Practice Set 102 ✅
+
+## Programs
+189. Python program for Product Discount using class and object.
+
+
 
 ## 🛠️ Technologies Used
 
