@@ -715,6 +715,13 @@ iv. To read from the file.
 ## Programs
 189. Python program for Product Discount using class and object.
 
+## Completed (Day-103)
+- Practice Set 103 ✅
+
+## Programs
+190. Program for Simple Entry Form using Tkinter.
+
+
 
 
 ## 🛠️ Technologies Used
