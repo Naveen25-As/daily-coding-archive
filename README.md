@@ -732,6 +732,12 @@ iv. To read from the file.
 
 ## Programs
 192. Movie Ticket Booking.
+ 
+## Completed (Day-106)
+- Practice Set 106 ✅
+
+## Programs
+193. Program for student managment using dictionary.
 
 
 
