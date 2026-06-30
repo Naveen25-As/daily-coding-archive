@@ -727,6 +727,12 @@ iv. To read from the file.
 ## Programs
 191. Python program for ATM Simulation using class and object.
 
+## Completed (Day-105)
+- Practice Set 105 ✅
+
+## Programs
+192. Movie Ticket Booking.
+
 
 
 
