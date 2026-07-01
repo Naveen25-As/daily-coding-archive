@@ -3,6 +3,7 @@
 ## Note
 This repository contains my early learning journey with daily Python practice.
 For structured and topic-based projects, visit my other repositories.
+https://github.com/Naveen25-As/python-learning-portfolio
 
 ## 📌 Description
 
