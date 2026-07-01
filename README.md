@@ -1,5 +1,9 @@
 # 🧑‍💻 Daily Python Practice
 
+## Note
+This repository contains my early learning journey with daily Python practice.
+For structured and topic-based projects, visit my other repositories.
+
 ## 📌 Description
 
 This repository contains my daily Python practice programs.
